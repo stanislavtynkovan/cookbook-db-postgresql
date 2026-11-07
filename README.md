@@ -38,4 +38,4 @@
 ![Обзор](dashboard/overview.png)
 ![Список блюд](dashboard/dishes.png)
 
-Файл: [`dashboard/cookbook_dashboard.pbix`](dashboard/cookbook_dashboard.pbix)ы
+Файл: [`dashboard/cookbook_dashboard.pbix`](dashboard/cookbook_dashboard.pbix)
